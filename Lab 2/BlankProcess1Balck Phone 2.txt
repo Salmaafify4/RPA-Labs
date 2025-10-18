@@ -1,0 +1,5 @@
+Movie Name: Balck Phone 2
+Rating: 6.7
+Popularity: 33
+Year: 2025
+URL: https://www.imdb.com/title/tt29644189/?ref_=fn_all_ttl_1

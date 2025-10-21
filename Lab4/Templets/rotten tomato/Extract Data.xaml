@@ -1,0 +1,262 @@
+<Activity mc:Ignorable="sap sap2010" x:Class="open_rotten_tomato" this:open_rotten_tomato.in_NumberOfMovies="0" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:sco="clr-namespace:System.Collections.ObjectModel;assembly=System.Private.CoreLib" xmlns:this="clr-namespace:" xmlns:ui="http://schemas.uipath.com/workflow/activities" xmlns:uix="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <x:Members>
+    <x:Property Name="out_ResultText" Type="OutArgument(x:String)" />
+    <x:Property Name="in_NumberOfMovies" Type="InArgument(x:Int32)" />
+  </x:Members>
+  <VisualBasic.Settings>
+    <x:Null />
+  </VisualBasic.Settings>
+  <sap2010:WorkflowViewState.IdRef>open_rotten_tomato_1</sap2010:WorkflowViewState.IdRef>
+  <TextExpression.NamespacesForImplementation>
+    <sco:Collection x:TypeArguments="x:String">
+      <x:String>System.Activities</x:String>
+      <x:String>System.Activities.Statements</x:String>
+      <x:String>System.Activities.Expressions</x:String>
+      <x:String>System.Activities.Validation</x:String>
+      <x:String>System.Activities.XamlIntegration</x:String>
+      <x:String>Microsoft.VisualBasic</x:String>
+      <x:String>Microsoft.VisualBasic.Activities</x:String>
+      <x:String>System</x:String>
+      <x:String>System.Collections</x:String>
+      <x:String>System.Collections.Generic</x:String>
+      <x:String>System.Collections.ObjectModel</x:String>
+      <x:String>System.Data</x:String>
+      <x:String>System.Diagnostics</x:String>
+      <x:String>System.Drawing</x:String>
+      <x:String>System.IO</x:String>
+      <x:String>System.Linq</x:String>
+      <x:String>System.Net.Mail</x:String>
+      <x:String>System.Xml</x:String>
+      <x:String>System.Xml.Linq</x:String>
+      <x:String>UiPath.Core</x:String>
+      <x:String>UiPath.Core.Activities</x:String>
+      <x:String>System.Windows.Markup</x:String>
+      <x:String>System.Runtime.Serialization</x:String>
+      <x:String>UiPath.UIAutomationNext.Enums</x:String>
+      <x:String>UiPath.UIAutomationCore.Contracts</x:String>
+      <x:String>UiPath.UIAutomationNext.Models</x:String>
+      <x:String>UiPath.UIAutomationNext.Activities</x:String>
+      <x:String>UiPath.Shared.Activities</x:String>
+      <x:String>UiPath.Platform.ObjectLibrary</x:String>
+      <x:String>UiPath.Platform.SyncObjects</x:String>
+      <x:String>System.Reflection</x:String>
+      <x:String>System.ComponentModel</x:String>
+      <x:String>System.Xml.Serialization</x:String>
+      <x:String>System.Linq.Expressions</x:String>
+      <x:String>System.Numerics</x:String>
+      <x:String>UiPath.UIAutomationNext.Activities.Models</x:String>
+      <x:String>UiPath.UIAutomationNext.Contracts</x:String>
+      <x:String>UiPath.UIAutomationNext.Models.CV</x:String>
+      <x:String>GlobalVariablesNamespace</x:String>
+      <x:String>GlobalConstantsNamespace</x:String>
+    </sco:Collection>
+  </TextExpression.NamespacesForImplementation>
+  <TextExpression.ReferencesForImplementation>
+    <sco:Collection x:TypeArguments="AssemblyReference">
+      <AssemblyReference>Microsoft.VisualBasic</AssemblyReference>
+      <AssemblyReference>mscorlib</AssemblyReference>
+      <AssemblyReference>System</AssemblyReference>
+      <AssemblyReference>System.Activities</AssemblyReference>
+      <AssemblyReference>System.ComponentModel.TypeConverter</AssemblyReference>
+      <AssemblyReference>System.Core</AssemblyReference>
+      <AssemblyReference>System.Data</AssemblyReference>
+      <AssemblyReference>System.Data.Common</AssemblyReference>
+      <AssemblyReference>System.Data.DataSetExtensions</AssemblyReference>
+      <AssemblyReference>System.Drawing</AssemblyReference>
+      <AssemblyReference>System.Drawing.Common</AssemblyReference>
+      <AssemblyReference>System.Drawing.Primitives</AssemblyReference>
+      <AssemblyReference>System.Linq</AssemblyReference>
+      <AssemblyReference>System.Net.Mail</AssemblyReference>
+      <AssemblyReference>System.ObjectModel</AssemblyReference>
+      <AssemblyReference>System.Private.CoreLib</AssemblyReference>
+      <AssemblyReference>System.Xaml</AssemblyReference>
+      <AssemblyReference>System.Xml</AssemblyReference>
+      <AssemblyReference>System.Xml.Linq</AssemblyReference>
+      <AssemblyReference>UiPath.System.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.UiAutomation.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Studio.Constants</AssemblyReference>
+      <AssemblyReference>System.Private.ServiceModel</AssemblyReference>
+      <AssemblyReference>System.Private.DataContractSerialization</AssemblyReference>
+      <AssemblyReference>System.Runtime.Serialization.Formatters</AssemblyReference>
+      <AssemblyReference>System.Runtime.Serialization.Primitives</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationNext</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationCore</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationNext.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.OCR.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Testing.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Excel.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Mail.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Platform</AssemblyReference>
+      <AssemblyReference>System.Reflection.DispatchProxy</AssemblyReference>
+      <AssemblyReference>System.Reflection.TypeExtensions</AssemblyReference>
+      <AssemblyReference>System.Reflection.Metadata</AssemblyReference>
+      <AssemblyReference>System.ComponentModel.EventBasedAsync</AssemblyReference>
+      <AssemblyReference>PresentationFramework</AssemblyReference>
+      <AssemblyReference>WindowsBase</AssemblyReference>
+      <AssemblyReference>System.ComponentModel</AssemblyReference>
+      <AssemblyReference>System.ComponentModel.Primitives</AssemblyReference>
+      <AssemblyReference>System.Private.Xml</AssemblyReference>
+      <AssemblyReference>System.Memory.Data</AssemblyReference>
+      <AssemblyReference>UiPath.Excel.Activities.Design</AssemblyReference>
+      <AssemblyReference>System.Console</AssemblyReference>
+      <AssemblyReference>System.Security.Permissions</AssemblyReference>
+      <AssemblyReference>System.Configuration.ConfigurationManager</AssemblyReference>
+      <AssemblyReference>System.Memory</AssemblyReference>
+      <AssemblyReference>System.Private.Uri</AssemblyReference>
+      <AssemblyReference>System.Linq.Expressions</AssemblyReference>
+      <AssemblyReference>System.Runtime.Numerics</AssemblyReference>
+      <AssemblyReference>System.Linq.Async</AssemblyReference>
+      <AssemblyReference>NPOI.Core</AssemblyReference>
+      <AssemblyReference>System.Collections</AssemblyReference>
+      <AssemblyReference>System.Collections.NonGeneric</AssemblyReference>
+      <AssemblyReference>System.CodeDom</AssemblyReference>
+      <AssemblyReference>Microsoft.VisualBasic.Forms</AssemblyReference>
+      <AssemblyReference>Microsoft.VisualBasic.Core</AssemblyReference>
+    </sco:Collection>
+  </TextExpression.ReferencesForImplementation>
+  <Sequence DisplayName="open_rotten_tomato" sap:VirtualizedContainerService.HintSize="1202,2115" sap2010:WorkflowViewState.IdRef="Sequence_1">
+    <Sequence.Variables>
+      <Variable x:TypeArguments="x:Int32" Default="1" Name="i" />
+      <Variable x:TypeArguments="x:String" Name="resultText">
+        <Variable.Default>
+          <Literal x:TypeArguments="x:String" Value="" />
+        </Variable.Default>
+      </Variable>
+      <Variable x:TypeArguments="ui:UiElement" Name="outputElement">
+        <sap:WorkflowViewStateService.ViewState>
+          <scg:Dictionary x:TypeArguments="x:String, x:Object">
+            <x:String x:Key="SourceIdRef">NApplicationCard_2</x:String>
+            <x:String x:Key="SourcePropertyName">OutUiElement</x:String>
+          </scg:Dictionary>
+        </sap:WorkflowViewStateService.ViewState>
+      </Variable>
+    </Sequence.Variables>
+    <sap:WorkflowViewStateService.ViewState>
+      <scg:Dictionary x:TypeArguments="x:String, x:Object">
+        <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+      </scg:Dictionary>
+    </sap:WorkflowViewStateService.ViewState>
+    <Sequence sap:VirtualizedContainerService.HintSize="554,2092" sap2010:WorkflowViewState.IdRef="Sequence_2">
+      <sap:WorkflowViewStateService.ViewState>
+        <scg:Dictionary x:TypeArguments="x:String, x:Object">
+          <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+        </scg:Dictionary>
+      </sap:WorkflowViewStateService.ViewState>
+      <uix:NApplicationCard AttachMode="ByInstance" CloseMode="Always" DisplayName="Chrome 300 Best Movies of All Time  Rotten To" HealingAgentBehavior="Job" sap:VirtualizedContainerService.HintSize="520,1843" sap2010:WorkflowViewState.IdRef="NApplicationCard_2" InteractionMode="Simulate" OpenMode="IfNotOpen" OutUiElement="[outputElement]" ScopeGuid="8ac4993b-b334-4646-ab22-42b704732d12" Version="V2" WindowResize="Maximize">
+        <uix:NApplicationCard.Body>
+          <ActivityAction x:TypeArguments="x:Object">
+            <ActivityAction.Argument>
+              <DelegateInArgument x:TypeArguments="x:Object" Name="WSSessionData" />
+            </ActivityAction.Argument>
+            <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="486,1593" sap2010:WorkflowViewState.IdRef="Sequence_3">
+              <sap:WorkflowViewStateService.ViewState>
+                <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                  <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                </scg:Dictionary>
+              </sap:WorkflowViewStateService.ViewState>
+              <Assign sap:VirtualizedContainerService.HintSize="452,175" sap2010:WorkflowViewState.IdRef="Assign_8">
+                <Assign.To>
+                  <OutArgument x:TypeArguments="x:Int32">[i]</OutArgument>
+                </Assign.To>
+                <Assign.Value>
+                  <InArgument x:TypeArguments="x:Int32">[1]</InArgument>
+                </Assign.Value>
+              </Assign>
+              <Assign sap:VirtualizedContainerService.HintSize="452,175" sap2010:WorkflowViewState.IdRef="Assign_7">
+                <Assign.To>
+                  <OutArgument x:TypeArguments="x:String">[resultText]</OutArgument>
+                </Assign.To>
+                <Assign.Value>
+                  <InArgument x:TypeArguments="x:String">[""]</InArgument>
+                </Assign.Value>
+              </Assign>
+              <ui:InterruptibleWhile CurrentIndex="{x:Null}" Condition="[i &lt;= in_NumberOfMovies]" DisplayName="While" sap:VirtualizedContainerService.HintSize="452,1181" sap2010:WorkflowViewState.IdRef="InterruptibleWhile_2">
+                <ui:InterruptibleWhile.Body>
+                  <Sequence DisplayName="Body" sap:VirtualizedContainerService.HintSize="450,1057" sap2010:WorkflowViewState.IdRef="Sequence_6">
+                    <Sequence.Variables>
+                      <Variable x:TypeArguments="x:String" Name="strRate" />
+                      <Variable x:TypeArguments="x:String" Name="strYear" />
+                      <Variable x:TypeArguments="x:String" Name="strTitle" />
+                    </Sequence.Variables>
+                    <sap:WorkflowViewStateService.ViewState>
+                      <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                        <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                      </scg:Dictionary>
+                    </sap:WorkflowViewStateService.ViewState>
+                    <uix:NClick ActivateBefore="True" ClickType="Single" DisplayName="Click '1. 97% The Godfather (1…(1)'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,227" sap2010:WorkflowViewState.IdRef="NClick_2" InteractionMode="DebuggerApi" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="8ac4993b-b334-4646-ab22-42b704732d12" Version="V5">
+                      <uix:NClick.Target>
+                        <uix:TargetAnchorable BrowserURL="editorial.rottentomatoes.com/guide/best-movies-of-all-time" ContentHash="hlPknIfjvE-CkpfkM0BDiA" DesignTimeRectangle="412, 256, 689, 364" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl parentid='article_main_body' tag='TABLE' /&gt;" Guid="840e2477-1584-4883-86ad-abb715be0109" InformativeScreenshot="33267fc724089406fef7fcb65ea11e7d.png" Reference="oYFrZvCAj0OTWFwsWrehNA/zkq7G7mWLEWyP-reP01RMQ" ScopeSelectorArgument="&lt;html app='chrome.exe' title='300 Best Movies of All Time | Rotten Tomatoes' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive" />
+                      </uix:NClick.Target>
+                      <uix:NClick.VerifyOptions>
+                        <uix:VerifyExecutionOptions DisplayName="{x:Null}" Mode="Appears">
+                          <uix:VerifyExecutionOptions.Retry>
+                            <InArgument x:TypeArguments="x:Boolean" />
+                          </uix:VerifyExecutionOptions.Retry>
+                          <uix:VerifyExecutionOptions.Timeout>
+                            <InArgument x:TypeArguments="x:Double" />
+                          </uix:VerifyExecutionOptions.Timeout>
+                        </uix:VerifyExecutionOptions>
+                      </uix:NClick.VerifyOptions>
+                    </uix:NClick>
+                    <uix:NGetText DisplayName="GetFilmName" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,143" sap2010:WorkflowViewState.IdRef="NGetText_1" ScopeIdentifier="8ac4993b-b334-4646-ab22-42b704732d12" TextString="[strTitle]" Version="V5">
+                      <uix:NGetText.Target>
+                        <uix:TargetAnchorable BrowserURL="editorial.rottentomatoes.com/guide/best-movies-of-all-time" CVScreenId="d4539a11-adf5-427d-b096-7b763bff62a4" ContentHash="s7LTyvsetUaFg3evdAofaQ" DesignTimeRectangle="580, 453, 120, 25" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="[string.Format(&quot;&lt;webctrl parentid='article_main_body' tag='TABLE' /&gt;&lt;webctrl idx='{0}' tag='A' /&gt;&quot;, i)]" Guid="036fcc4b-6263-4808-949a-bee191d68ac3" InformativeScreenshot="c91a9b4bb326c37ae175f180ed969353.png" Reference="oYFrZvCAj0OTWFwsWrehNA/1KqGwFWudE-L-C0kTNqe2Q" ScopeSelectorArgument="&lt;html app='chrome.exe' title='300 Best Movies of All Time | Rotten Tomatoes' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive" />
+                      </uix:NGetText.Target>
+                    </uix:NGetText>
+                    <uix:NGetText DisplayName="GetYear" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,143" sap2010:WorkflowViewState.IdRef="NGetText_2" ScopeIdentifier="8ac4993b-b334-4646-ab22-42b704732d12" TextString="[strYear]" Version="V5">
+                      <uix:NGetText.Target>
+                        <uix:TargetAnchorable BrowserURL="editorial.rottentomatoes.com/guide/best-movies-of-all-time" CVScreenId="2cbab4d6-a453-4381-b6f4-607055bddab2" ContentHash="7tYppMMCV0-OxY_EzyUFnw" DesignTimeRectangle="704, 453, 52, 25" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="[string.Format(&quot;&lt;webctrl parentid='article_main_body' tag='TABLE' /&gt;&lt;webctrl class='year' idx='{0}' tag='SPAN' /&gt;&quot;, i)]" Guid="0b34d6db-3c55-4490-91cd-ad864e10485e" InformativeScreenshot="084f832895b01bb1c5c147902f0a5eaa.png" Reference="oYFrZvCAj0OTWFwsWrehNA/LoTLranQqkOAqdEI4P35qw" ScopeSelectorArgument="&lt;html app='chrome.exe' title='300 Best Movies of All Time | Rotten Tomatoes' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive" />
+                      </uix:NGetText.Target>
+                    </uix:NGetText>
+                    <uix:NGetText DisplayName="Get Rate" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,143" sap2010:WorkflowViewState.IdRef="NGetText_3" ScopeIdentifier="8ac4993b-b334-4646-ab22-42b704732d12" TextString="[strRate]" Version="V5">
+                      <uix:NGetText.Target>
+                        <uix:TargetAnchorable BrowserURL="editorial.rottentomatoes.com/guide/best-movies-of-all-time" CVScreenId="92abb3c4-917d-4696-8b0e-fbda7279943f" ContentHash="xsz7qpiXCEyVBwVP5MLiYw" DesignTimeRectangle="526, 453, 38, 25" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="[string.Format(&quot;&lt;webctrl parentid='article_main_body' tag='TABLE' /&gt;&lt;webctrl idx='{0}' tag='STRONG' /&gt;&quot;, i)]" Guid="3cba6dbc-e84d-49c0-82a2-23f514423339" InformativeScreenshot="616156216cdfac74974f75d62d2cb7a5.png" Reference="oYFrZvCAj0OTWFwsWrehNA/VlBws22AH0GWsXtzN6pxPg" ScopeSelectorArgument="&lt;html app='chrome.exe' title='300 Best Movies of All Time | Rotten Tomatoes' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive" />
+                      </uix:NGetText.Target>
+                    </uix:NGetText>
+                    <Assign sap:VirtualizedContainerService.HintSize="416,175" sap2010:WorkflowViewState.IdRef="Assign_9">
+                      <Assign.To>
+                        <OutArgument x:TypeArguments="x:String">[resultText]</OutArgument>
+                      </Assign.To>
+                      <Assign.Value>
+                        <InArgument x:TypeArguments="x:String" xml:space="preserve">[resultText &amp; 
+"Title: " &amp;  strTitle &amp; vbCrLf &amp;
+"Year: " &amp;  strYear &amp; vbCrLf &amp;
+"Rate: " &amp;  strRate &amp; vbCrLf &amp;
+"----------------------------------------" &amp; vbCrLf]</InArgument>
+                      </Assign.Value>
+                    </Assign>
+                    <Assign sap:VirtualizedContainerService.HintSize="416,166" sap2010:WorkflowViewState.IdRef="Assign_4">
+                      <Assign.To>
+                        <OutArgument x:TypeArguments="x:Int32">[i]</OutArgument>
+                      </Assign.To>
+                      <Assign.Value>
+                        <InArgument x:TypeArguments="x:Int32">[i +1]</InArgument>
+                      </Assign.Value>
+                    </Assign>
+                  </Sequence>
+                </ui:InterruptibleWhile.Body>
+                <sap:WorkflowViewStateService.ViewState>
+                  <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                    <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                    <x:Boolean x:Key="IsPinned">False</x:Boolean>
+                  </scg:Dictionary>
+                </sap:WorkflowViewStateService.ViewState>
+              </ui:InterruptibleWhile>
+            </Sequence>
+          </ActivityAction>
+        </uix:NApplicationCard.Body>
+        <uix:NApplicationCard.TargetApp>
+          <uix:TargetApp Area="-9, -9, 1938, 1048" BrowserType="Chrome" ContentHash="iTbtTxAd9USgArVmI7htjA" IconBase64="iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAMqSURBVFhHvZZLTBNRFIYvPsLM8C4gYFAQE6XQx8wUjZqIuAAkwkKEqNHgwmiiQQUJJq5EY3yARmiNRhZqAgTDyhBjlJUsdOHax0rZESIRWmjtdFoYz620TqcHoUBn8XXunHPm///cTjtDqltql4T0mG2kxzRK7FYB668GtKiG3N+RBebTgAL0h+sOczGxm9qh1kHslv3qa2IBLWoh9tI6MJoDZDDLh+OthXMaigLr0uPYtUuBFilgtAeEbwP9pLvUAcf3C2bfFo4h/MA+TGM5RBceFWeC4LDKYCkmSLfpMYR8Dms76Ta3AuXkqW2jVhsjutBjHgDBryD2S2WyEn4C10hHxQathxq0SIEbrAp4DSJ0izGDRcm5Y3Q1tBRKp5sLXJfP5Q85zWkZmAcluvD3u/+gFQUC6vOcu0bPofYid1pXyVTWPeMUrL2dp3LdXw6kzvoEVtEwLvGJlVqvoF944RA2g3AfMK82ojRdLHC9aMh2qmtHWwt/I0b/IyAL3Bm1edA3vOiyJD04mTfQdjZ/uv7KNn/l1e1+MPaM1Bg8VODNYcNMyDwBdmO0KiPWAJQ5oAEN4LcyB6EZUA1HcOH8Fjc1z+g0egePZAdDrZBZycwURQRQ9hIWGmOawQh6j+W439UYZt1l3KIhl4sksMMRAaDQhg3GE5lP4oMBFEISfCL7HRuKJ7LAOoIBZCsnYAM6MBYMIIlsM9LUBfeupFxCtwJr6oFXYMoJLAa1Dd0Q2XoCH0NoUw94tpH4eO4Z2tQByZpYBTvAXceaeqCUMUUkIHK1WDPewM0/Qf+DyOROkgIFr3Yg3sgi0xv+K4aboQ8biifwaC77F8CSbILiqh8yMfCK+oYDUCSefYgMxgHGqdiYrVEBlArCwMCn6AvWlIAkcnUhz4gAFMWSvAkSfkYuXAv8ssA0qf0oEScUV0mqQRK4EURgxcBPblISE6u1XpSoAgV+n+vgJeWST+CcmGAMzAMvPTYuD/OhoMUQM7tTMiHEDRAZV4kuBwkYlEXOhumqQYtalEay3s8zFRDmJvAWxH8AoRdTGRiHbf4oCcwTWJ9Q+PR0TCeaWvIH/PEyWiO0tCIAAAAASUVORK5CYII=" sap2010:WorkflowViewState.IdRef="TargetApp_1" InformativeScreenshot="3953610f45129467162e2a69c4106859.jpg" Reference="oYFrZvCAj0OTWFwsWrehNA/Z2BcX3blDEu0IEBmDWG95w" Selector="&lt;html app='chrome.exe' title='300 Best Movies of All Time | Rotten Tomatoes' /&gt;" Url="https://editorial.rottentomatoes.com/guide/best-movies-of-all-time/" Version="V2" />
+        </uix:NApplicationCard.TargetApp>
+      </uix:NApplicationCard>
+      <Assign sap:VirtualizedContainerService.HintSize="520,166" sap2010:WorkflowViewState.IdRef="Assign_10">
+        <Assign.To>
+          <OutArgument x:TypeArguments="x:String">[out_ResultText]</OutArgument>
+        </Assign.To>
+        <Assign.Value>
+          <InArgument x:TypeArguments="x:String">[resultText]</InArgument>
+        </Assign.Value>
+      </Assign>
+    </Sequence>
+  </Sequence>
+</Activity>

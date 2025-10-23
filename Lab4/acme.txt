@@ -1,0 +1,2140 @@
+
+Actions
+            WIID
+            Description
+            Type
+            Status
+            Date
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107819972
+            Calculate Client Security Hash
+            WI5
+            Open
+            2023-09-10
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820023
+            Research Client Check Copy
+            WI2
+            Open
+            2021-10-19
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107819980
+            Calculate Client Security Hash
+            WI5
+            Open
+            2022-10-26
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107819971
+            Calculate Client Security Hash
+            WI5
+            Open
+            2023-01-29
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820001
+            Process Vendor Invoice
+            WI3
+            Open
+            2019-06-06
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107819995
+            Process Vendor Invoice
+            WI3
+            Open
+            2025-07-21
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820017
+            Research Client Check Copy
+            WI2
+            Open
+            2017-04-07
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820045
+            Research Client Check Copy
+            WI2
+            Open
+            2024-02-20
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107819976
+            Calculate Client Security Hash
+            WI5
+            Open
+            2021-10-04
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107819978
+            Calculate Client Security Hash
+            WI5
+            Open
+            2023-08-13
+Actions
+            WIID
+            Description
+            Type
+            Status
+            Date
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107819964
+            Calculate Client Security Hash
+            WI5
+            Open
+            2021-09-12
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820010
+            Research Client Check Copy
+            WI2
+            Open
+            2020-05-20
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107819973
+            Calculate Client Security Hash
+            WI5
+            Open
+            2024-06-16
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820053
+            Research Client Check Copy
+            WI2
+            Open
+            2017-11-05
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107819994
+            Process Vendor Invoice
+            WI3
+            Open
+            2018-02-24
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820069
+            Verify Account Position
+            WI1
+            Open
+            2025-09-03
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820072
+            Verify Account Position
+            WI1
+            Open
+            2024-01-15
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107819975
+            Calculate Client Security Hash
+            WI5
+            Open
+            2018-10-12
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820058
+            Research Client Check Copy
+            WI2
+            Open
+            2020-05-07
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107819988
+            Generate Yearly Report for Vendor
+            WI4
+            Open
+            2023-05-04
+Actions
+            WIID
+            Description
+            Type
+            Status
+            Date
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820071
+            Verify Account Position
+            WI1
+            Open
+            2024-07-20
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820034
+            Research Client Check Copy
+            WI2
+            Open
+            2025-09-20
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820098
+            Verify Account Position
+            WI1
+            Open
+            2017-09-21
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820006
+            Research Client Check Copy
+            WI2
+            Open
+            2024-11-24
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107819982
+            Calculate Client Security Hash
+            WI5
+            Open
+            2018-09-11
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820007
+            Research Client Check Copy
+            WI2
+            Open
+            2017-06-15
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820046
+            Research Client Check Copy
+            WI2
+            Open
+            2025-05-03
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820042
+            Research Client Check Copy
+            WI2
+            Open
+            2020-03-16
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107819970
+            Calculate Client Security Hash
+            WI5
+            Open
+            2019-08-10
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107819992
+            Generate Yearly Report for Vendor
+            WI4
+            Open
+            2019-06-26
+Actions
+            WIID
+            Description
+            Type
+            Status
+            Date
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820077
+            Verify Account Position
+            WI1
+            Open
+            2023-10-13
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820088
+            Verify Account Position
+            WI1
+            Open
+            2017-07-15
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820004
+            Process Vendor Invoice
+            WI3
+            Open
+            2023-11-22
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820099
+            Verify Account Position
+            WI1
+            Open
+            2017-11-19
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820085
+            Verify Account Position
+            WI1
+            Open
+            2021-01-15
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820016
+            Research Client Check Copy
+            WI2
+            Open
+            2025-08-29
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820086
+            Verify Account Position
+            WI1
+            Open
+            2017-11-22
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820054
+            Research Client Check Copy
+            WI2
+            Open
+            2020-12-30
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820066
+            Verify Account Position
+            WI1
+            Open
+            2022-01-05
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820076
+            Verify Account Position
+            WI1
+            Open
+            2017-04-17
+Actions
+            WIID
+            Description
+            Type
+            Status
+            Date
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820012
+            Research Client Check Copy
+            WI2
+            Open
+            2019-02-18
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820024
+            Research Client Check Copy
+            WI2
+            Open
+            2019-04-14
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107819996
+            Process Vendor Invoice
+            WI3
+            Open
+            2023-11-20
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820038
+            Research Client Check Copy
+            WI2
+            Open
+            2024-06-14
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820041
+            Research Client Check Copy
+            WI2
+            Open
+            2021-09-13
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820008
+            Research Client Check Copy
+            WI2
+            Open
+            2025-07-05
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820040
+            Research Client Check Copy
+            WI2
+            Open
+            2021-12-23
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107819979
+            Calculate Client Security Hash
+            WI5
+            Open
+            2022-04-09
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820082
+            Verify Account Position
+            WI1
+            Open
+            2023-04-08
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820014
+            Research Client Check Copy
+            WI2
+            Open
+            2023-07-12
+Actions
+            WIID
+            Description
+            Type
+            Status
+            Date
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820025
+            Research Client Check Copy
+            WI2
+            Open
+            2017-02-22
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820060
+            Research Client Check Copy
+            WI2
+            Open
+            2021-03-30
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820063
+            Verify Account Position
+            WI1
+            Open
+            2019-03-24
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820030
+            Research Client Check Copy
+            WI2
+            Open
+            2025-02-06
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107819984
+            Generate Yearly Report for Vendor
+            WI4
+            Open
+            2024-04-03
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820003
+            Process Vendor Invoice
+            WI3
+            Open
+            2022-02-07
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107819967
+            Calculate Client Security Hash
+            WI5
+            Open
+            2023-06-24
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820090
+            Verify Account Position
+            WI1
+            Open
+            2018-02-07
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107819986
+            Generate Yearly Report for Vendor
+            WI4
+            Open
+            2017-05-21
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820039
+            Research Client Check Copy
+            WI2
+            Open
+            2024-02-11
+Actions
+            WIID
+            Description
+            Type
+            Status
+            Date
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820048
+            Research Client Check Copy
+            WI2
+            Open
+            2019-06-20
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820021
+            Research Client Check Copy
+            WI2
+            Open
+            2023-10-12
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820073
+            Verify Account Position
+            WI1
+            Open
+            2017-12-08
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820022
+            Research Client Check Copy
+            WI2
+            Open
+            2020-07-27
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820032
+            Research Client Check Copy
+            WI2
+            Open
+            2023-12-18
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820084
+            Verify Account Position
+            WI1
+            Open
+            2018-07-06
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107819968
+            Calculate Client Security Hash
+            WI5
+            Open
+            2024-01-03
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820089
+            Verify Account Position
+            WI1
+            Open
+            2020-07-11
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820009
+            Research Client Check Copy
+            WI2
+            Open
+            2022-08-09
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107819974
+            Calculate Client Security Hash
+            WI5
+            Open
+            2022-04-30
+Actions
+            WIID
+            Description
+            Type
+            Status
+            Date
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820079
+            Verify Account Position
+            WI1
+            Open
+            2020-12-17
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820078
+            Verify Account Position
+            WI1
+            Open
+            2017-10-31
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820043
+            Research Client Check Copy
+            WI2
+            Open
+            2019-06-24
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820080
+            Verify Account Position
+            WI1
+            Open
+            2020-12-20
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820051
+            Research Client Check Copy
+            WI2
+            Open
+            2017-07-07
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107819987
+            Generate Yearly Report for Vendor
+            WI4
+            Open
+            2024-02-05
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820095
+            Verify Account Position
+            WI1
+            Open
+            2020-07-09
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820018
+            Research Client Check Copy
+            WI2
+            Open
+            2022-12-08
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820083
+            Verify Account Position
+            WI1
+            Open
+            2020-02-14
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820074
+            Verify Account Position
+            WI1
+            Open
+            2018-01-25
+Actions
+            WIID
+            Description
+            Type
+            Status
+            Date
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107819989
+            Generate Yearly Report for Vendor
+            WI4
+            Open
+            2018-08-03
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107819993
+            Generate Yearly Report for Vendor
+            WI4
+            Open
+            2019-05-13
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820081
+            Verify Account Position
+            WI1
+            Open
+            2018-05-31
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820027
+            Research Client Check Copy
+            WI2
+            Open
+            2020-10-31
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820070
+            Verify Account Position
+            WI1
+            Open
+            2023-08-01
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820050
+            Research Client Check Copy
+            WI2
+            Open
+            2017-02-28
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820093
+            Verify Account Position
+            WI1
+            Open
+            2021-09-01
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820052
+            Research Client Check Copy
+            WI2
+            Open
+            2019-12-06
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107819981
+            Calculate Client Security Hash
+            WI5
+            Open
+            2022-10-01
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107819999
+            Process Vendor Invoice
+            WI3
+            Open
+            2024-06-11
+Actions
+            WIID
+            Description
+            Type
+            Status
+            Date
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820091
+            Verify Account Position
+            WI1
+            Open
+            2017-02-13
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820028
+            Research Client Check Copy
+            WI2
+            Open
+            2018-04-12
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107819965
+            Calculate Client Security Hash
+            WI5
+            Open
+            2025-02-12
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107819966
+            Calculate Client Security Hash
+            WI5
+            Open
+            2018-07-24
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820000
+            Process Vendor Invoice
+            WI3
+            Open
+            2017-02-27
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820097
+            Verify Account Position
+            WI1
+            Open
+            2020-12-17
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820065
+            Verify Account Position
+            WI1
+            Open
+            2018-12-11
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820075
+            Verify Account Position
+            WI1
+            Open
+            2025-05-29
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107819969
+            Calculate Client Security Hash
+            WI5
+            Open
+            2020-02-18
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107819991
+            Generate Yearly Report for Vendor
+            WI4
+            Open
+            2021-09-07
+Actions
+            WIID
+            Description
+            Type
+            Status
+            Date
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107819985
+            Generate Yearly Report for Vendor
+            WI4
+            Open
+            2018-11-08
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820068
+            Verify Account Position
+            WI1
+            Open
+            2020-04-01
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820055
+            Research Client Check Copy
+            WI2
+            Open
+            2018-08-11
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107819997
+            Process Vendor Invoice
+            WI3
+            Open
+            2017-06-15
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820059
+            Research Client Check Copy
+            WI2
+            Open
+            2017-12-28
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107819977
+            Calculate Client Security Hash
+            WI5
+            Open
+            2017-07-09
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820049
+            Research Client Check Copy
+            WI2
+            Open
+            2021-01-20
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820057
+            Research Client Check Copy
+            WI2
+            Open
+            2021-06-15
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820019
+            Research Client Check Copy
+            WI2
+            Open
+            2019-05-14
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820026
+            Research Client Check Copy
+            WI2
+            Open
+            2024-12-01
+Actions
+            WIID
+            Description
+            Type
+            Status
+            Date
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820033
+            Research Client Check Copy
+            WI2
+            Open
+            2021-10-16
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820062
+            Verify Account Position
+            WI1
+            Open
+            2019-07-06
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107819983
+            Generate Yearly Report for Vendor
+            WI4
+            Open
+            2021-08-30
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820011
+            Research Client Check Copy
+            WI2
+            Open
+            2020-02-11
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820002
+            Process Vendor Invoice
+            WI3
+            Open
+            2017-10-07
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820036
+            Research Client Check Copy
+            WI2
+            Open
+            2018-02-15
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107819998
+            Process Vendor Invoice
+            WI3
+            Open
+            2023-09-17
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820061
+            Research Client Check Copy
+            WI2
+            Open
+            2025-02-10
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820035
+            Research Client Check Copy
+            WI2
+            Open
+            2025-05-26
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107819990
+            Generate Yearly Report for Vendor
+            WI4
+            Open
+            2020-10-18
+Actions
+            WIID
+            Description
+            Type
+            Status
+            Date
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820056
+            Research Client Check Copy
+            WI2
+            Open
+            2023-09-27
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820044
+            Research Client Check Copy
+            WI2
+            Open
+            2024-05-10
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820047
+            Research Client Check Copy
+            WI2
+            Open
+            2019-02-14
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820067
+            Verify Account Position
+            WI1
+            Open
+            2018-01-26
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820094
+            Verify Account Position
+            WI1
+            Open
+            2024-04-28
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820064
+            Verify Account Position
+            WI1
+            Open
+            2024-06-29
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820029
+            Research Client Check Copy
+            WI2
+            Open
+            2024-06-26
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820013
+            Research Client Check Copy
+            WI2
+            Open
+            2021-10-08
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820005
+            Process Vendor Invoice
+            WI3
+            Open
+            2020-11-14
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820096
+            Verify Account Position
+            WI1
+            Open
+            2021-08-25
+Actions
+            WIID
+            Description
+            Type
+            Status
+            Date
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820031
+            Research Client Check Copy
+            WI2
+            Open
+            2022-11-08
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820015
+            Research Client Check Copy
+            WI2
+            Open
+            2023-02-25
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820087
+            Verify Account Position
+            WI1
+            Open
+            2022-12-13
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820020
+            Research Client Check Copy
+            WI2
+            Open
+            2023-12-23
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820037
+            Research Client Check Copy
+            WI2
+            Open
+            2019-07-07
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107819963
+            Calculate Client Security Hash
+            WI5
+            Open
+            2020-05-28
+        
+                
+            
+                
+                    
+                
+                
+                    
+                
+            
+            107820092
+            Verify Account Position
+            WI1
+            Open
+            2025-09-23

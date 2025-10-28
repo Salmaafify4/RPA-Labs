@@ -1,4 +1,0 @@
-Country: mansoura
-Temperature: 30
-Humidity: 67%
-Status: Sunny

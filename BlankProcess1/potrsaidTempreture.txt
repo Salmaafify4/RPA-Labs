@@ -1,4 +1,0 @@
-Country: potrsaid
-Temperature: 21
-Humidity: 71%
-Status: Clear

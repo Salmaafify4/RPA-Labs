@@ -1,6 +1,0 @@
-{
-  "Name": "Acme_Dispatcher",
-  "ProjectType": "Process",
-  "Description": "",
-  "MainFile": "Main.xaml"
-}
